@@ -3,6 +3,7 @@
 // Project: #2
 // Author: Andrii Klymenko
 // Login: xklyme00
+// Date: 10.6.2023
 
 #include <stdio.h>
 #include <stdlib.h>
