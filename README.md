@@ -43,4 +43,4 @@ grep: type: No such file or directory
 ```
 
 ## Zadání
-Naleznete v souboru zadani-2023.pdf
+Naleznete v souboru [zadani-2023.pdf](https://github.com/TheKlima/ios-project2-2023-vut-fit/blob/main/zadani-2023.pdf)
